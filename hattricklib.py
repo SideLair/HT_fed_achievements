@@ -71,16 +71,58 @@ def get_user_achievments_points(userID, oauth, token, version=1.2):
     return achievs
 
 
+def get_user_signupdate(userID, oauth, token, version=3.6):
+    params = {
+            'file' : 'teamdetails',
+            'version' : version,
+            'userID' : userID
+        }
+
+    try:
+        resp = oauth.hattrick.get('', params=params, token=token)
+        xml = resp.text.encode("latin-1").decode("utf-8")
+        root = ET.fromstring(xml)
+        signup_date = root.find('.//User/SignupDate').text
+    except:
+        signup_date = ''
+
+    return {'signup_date' : signup_date}
+
+
+def get_user_country(userID, oauth, token, version=1.4):
+    params = {
+            'file' : 'managercompendium',
+            'version' : version,
+            'userID' : userID
+        }
+    try:
+        resp = oauth.hattrick.get('', params=params, token=token)
+        xml = resp.text.encode("latin-1").decode("utf-8")
+        root = ET.fromstring(xml)
+        country_id = int(root.find('.//Manager/Country/CountryId').text)
+    except:
+        country_id = -1
+
+    return {'country_id' : country_id}
+
+
 def download_data(oauth, token):
     members = get_fed_members(oauth=oauth, token=SETTINGS['token'])
 
     print(f'{datetime.now().strftime("%H:%M:%S")} - HT achievements download has been started.')
     for id, _ in members.items():
         achiev_points = get_user_achievments_points(oauth=oauth, token=SETTINGS['token'], userID=id)
+        signup_date = get_user_signupdate(oauth=oauth, token=SETTINGS['token'], userID=id)
+        country = get_user_country(oauth=oauth, token=SETTINGS['token'], userID=id)
         members[id] |= achiev_points
+        members[id] |= signup_date
+        members[id] |= country
     print(f'{datetime.now().strftime("%H:%M:%S")} - HT achievements has been downloaded.')
 
     df_members_achievs = pd.DataFrame().from_dict(members, orient='index').sort_values('total', ascending=False)
+
+    countries_file = open(f'{script_directory}/countries.json').read()
+    countries_dict = json.loads(countries_file)
 
 
     #data clean
@@ -93,12 +135,16 @@ def download_data(oauth, token):
     df_members_achievs['user_id'] = df_members_achievs.index
     df_members_achievs.set_index(arange(1, len(df_members_achievs) + 1), inplace=True)
     #df_members_achievs.index.name = '#'
+    df_members_achievs['country'] = df_members_achievs.apply(lambda x: countries_dict[str(x['country_id'])]['EnglishName'], axis=1)
+    del df_members_achievs['country_id']
 
     #achive columns sort
     ach_sorted = sorted([col for col in df_members_achievs.columns if 'ach_' in col])
     #df_members_achievs[ach_sorted].astype('int')
-    ach_sorted.insert(0, 'total')
     ach_sorted.insert(0, 'loginname')
+    ach_sorted.insert(1, 'country')
+    ach_sorted.insert(2, 'total')
+    ach_sorted.append('signup_date')
     ach_sorted.append('user_id')
     df_members_achievs = df_members_achievs[ach_sorted]
 

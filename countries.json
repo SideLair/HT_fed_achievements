@@ -1,0 +1,1170 @@
+{
+    "0": {
+        "LeagueID": "0",
+        "LeagueName": "Unknown",
+        "ShortName": "Unknown",
+        "EnglishName": "Unknown",
+        "CountryName": "Unknown",
+        "CountryID": "0"
+    },
+    "1": {
+        "LeagueID": "1",
+        "LeagueName": "Sverige",
+        "ShortName": "Sverige",
+        "EnglishName": "Sweden",
+        "CountryName": "Sverige",
+        "CountryID": "1"
+    },
+    "2": {
+        "LeagueID": "2",
+        "LeagueName": "England",
+        "ShortName": "England",
+        "EnglishName": "England",
+        "CountryName": "England",
+        "CountryID": "2"
+    },
+    "3": {
+        "LeagueID": "3",
+        "LeagueName": "Deutschland",
+        "ShortName": "Deutschland",
+        "EnglishName": "Germany",
+        "CountryName": "Deutschland",
+        "CountryID": "3"
+    },
+    "4": {
+        "LeagueID": "4",
+        "LeagueName": "Italia",
+        "ShortName": "Italia",
+        "EnglishName": "Italy",
+        "CountryName": "Italia",
+        "CountryID": "4"
+    },
+    "5": {
+        "LeagueID": "5",
+        "LeagueName": "France",
+        "ShortName": "France",
+        "EnglishName": "France",
+        "CountryName": "France",
+        "CountryID": "5"
+    },
+    "6": {
+        "LeagueID": "6",
+        "LeagueName": "M\u00e9xico",
+        "ShortName": "M\u00e9xico",
+        "EnglishName": "Mexico",
+        "CountryName": "M\u00e9xico",
+        "CountryID": "6"
+    },
+    "7": {
+        "LeagueID": "7",
+        "LeagueName": "Argentina",
+        "ShortName": "Argentina",
+        "EnglishName": "Argentina",
+        "CountryName": "Argentina",
+        "CountryID": "7"
+    },
+    "8": {
+        "LeagueID": "8",
+        "LeagueName": "USA",
+        "ShortName": "USA",
+        "EnglishName": "USA",
+        "CountryName": "USA",
+        "CountryID": "8"
+    },
+    "9": {
+        "LeagueID": "9",
+        "LeagueName": "Norge",
+        "ShortName": "Norge",
+        "EnglishName": "Norway",
+        "CountryName": "Norge",
+        "CountryID": "9"
+    },
+    "10": {
+        "LeagueID": "11",
+        "LeagueName": "Danmark",
+        "ShortName": "Danmark",
+        "EnglishName": "Denmark",
+        "CountryName": "Danmark",
+        "CountryID": "10"
+    },
+    "11": {
+        "LeagueID": "12",
+        "LeagueName": "Suomi",
+        "ShortName": "Suomi",
+        "EnglishName": "Finland",
+        "CountryName": "Suomi",
+        "CountryID": "11"
+    },
+    "12": {
+        "LeagueID": "14",
+        "LeagueName": "Nederland",
+        "ShortName": "Nederland",
+        "EnglishName": "Netherlands",
+        "CountryName": "Nederland",
+        "CountryID": "12"
+    },
+    "13": {
+        "LeagueID": "15",
+        "LeagueName": "Oceania",
+        "ShortName": "Oceania",
+        "EnglishName": "Oceania",
+        "CountryName": "Oceania",
+        "CountryID": "13"
+    },
+    "22": {
+        "LeagueID": "16",
+        "LeagueName": "Brasil",
+        "ShortName": "Brasil",
+        "EnglishName": "Brazil",
+        "CountryName": "Brasil",
+        "CountryID": "22"
+    },
+    "14": {
+        "LeagueID": "17",
+        "LeagueName": "Canada",
+        "ShortName": "Canada",
+        "EnglishName": "Canada",
+        "CountryName": "Canada",
+        "CountryID": "14"
+    },
+    "17": {
+        "LeagueID": "18",
+        "LeagueName": "Chile",
+        "ShortName": "Chile",
+        "EnglishName": "Chile",
+        "CountryName": "Chile",
+        "CountryID": "17"
+    },
+    "18": {
+        "LeagueID": "19",
+        "LeagueName": "Colombia",
+        "ShortName": "Colombia",
+        "EnglishName": "Colombia",
+        "CountryName": "Colombia",
+        "CountryID": "18"
+    },
+    "27": {
+        "LeagueID": "20",
+        "LeagueName": "India",
+        "ShortName": "India",
+        "EnglishName": "India",
+        "CountryName": "India",
+        "CountryID": "27"
+    },
+    "16": {
+        "LeagueID": "21",
+        "LeagueName": "Ireland",
+        "ShortName": "Ireland",
+        "EnglishName": "Ireland",
+        "CountryName": "Ireland",
+        "CountryID": "16"
+    },
+    "25": {
+        "LeagueID": "22",
+        "LeagueName": "Nippon",
+        "ShortName": "Nippon",
+        "EnglishName": "Japan",
+        "CountryName": "Nippon",
+        "CountryID": "25"
+    },
+    "21": {
+        "LeagueID": "23",
+        "LeagueName": "Per\u00fa",
+        "ShortName": "Per\u00fa",
+        "EnglishName": "Peru",
+        "CountryName": "Per\u00fa",
+        "CountryID": "21"
+    },
+    "26": {
+        "LeagueID": "24",
+        "LeagueName": "Polska",
+        "ShortName": "Polska",
+        "EnglishName": "Poland",
+        "CountryName": "Polska",
+        "CountryID": "26"
+    },
+    "23": {
+        "LeagueID": "25",
+        "LeagueName": "Portugal",
+        "ShortName": "Portugal",
+        "EnglishName": "Portugal",
+        "CountryName": "Portugal",
+        "CountryID": "23"
+    },
+    "15": {
+        "LeagueID": "26",
+        "LeagueName": "Scotland",
+        "ShortName": "Scotland",
+        "EnglishName": "Scotland",
+        "CountryName": "Scotland",
+        "CountryID": "15"
+    },
+    "24": {
+        "LeagueID": "27",
+        "LeagueName": "South Africa",
+        "ShortName": "South Africa",
+        "EnglishName": "South Africa",
+        "CountryName": "South Africa",
+        "CountryID": "24"
+    },
+    "19": {
+        "LeagueID": "28",
+        "LeagueName": "Uruguay",
+        "ShortName": "Uruguay",
+        "EnglishName": "Uruguay",
+        "CountryName": "Uruguay",
+        "CountryID": "19"
+    },
+    "20": {
+        "LeagueID": "29",
+        "LeagueName": "Venezuela",
+        "ShortName": "Venezuela",
+        "EnglishName": "Venezuela",
+        "CountryName": "Venezuela",
+        "CountryID": "20"
+    },
+    "29": {
+        "LeagueID": "30",
+        "LeagueName": "Hanguk",
+        "ShortName": "Hanguk",
+        "EnglishName": "South Korea",
+        "CountryName": "Hanguk",
+        "CountryID": "29"
+    },
+    "30": {
+        "LeagueID": "31",
+        "LeagueName": "Prathet Thai",
+        "ShortName": "Prathet Thai",
+        "EnglishName": "Thailand",
+        "CountryName": "Prathet Thai",
+        "CountryID": "30"
+    },
+    "31": {
+        "LeagueID": "32",
+        "LeagueName": "T\u00fcrkiye",
+        "ShortName": "T\u00fcrkiye",
+        "EnglishName": "Turkey",
+        "CountryName": "T\u00fcrkiye",
+        "CountryID": "31"
+    },
+    "32": {
+        "LeagueID": "33",
+        "LeagueName": "Misr",
+        "ShortName": "Misr",
+        "EnglishName": "Egypt",
+        "CountryName": "Misr",
+        "CountryID": "32"
+    },
+    "28": {
+        "LeagueID": "34",
+        "LeagueName": "China",
+        "ShortName": "China",
+        "EnglishName": "People's Republic of China",
+        "CountryName": "China",
+        "CountryID": "28"
+    },
+    "34": {
+        "LeagueID": "35",
+        "LeagueName": "Rossiya",
+        "ShortName": "Rossiya",
+        "EnglishName": "Russia",
+        "CountryName": "Rossiya",
+        "CountryID": "34"
+    },
+    "35": {
+        "LeagueID": "36",
+        "LeagueName": "Espa\u00f1a",
+        "ShortName": "Espa\u00f1a",
+        "EnglishName": "Spain",
+        "CountryName": "Espa\u00f1a",
+        "CountryID": "35"
+    },
+    "36": {
+        "LeagueID": "37",
+        "LeagueName": "Rom\u00e2nia",
+        "ShortName": "Rom\u00e2nia",
+        "EnglishName": "Romania",
+        "CountryName": "Rom\u00e2nia",
+        "CountryID": "36"
+    },
+    "37": {
+        "LeagueID": "38",
+        "LeagueName": "\u00cdsland",
+        "ShortName": "\u00cdsland",
+        "EnglishName": "Iceland",
+        "CountryName": "\u00cdsland",
+        "CountryID": "37"
+    },
+    "33": {
+        "LeagueID": "39",
+        "LeagueName": "\u00d6sterreich",
+        "ShortName": "\u00d6sterreich",
+        "EnglishName": "Austria",
+        "CountryName": "\u00d6sterreich",
+        "CountryID": "33"
+    },
+    "38": {
+        "LeagueID": "44",
+        "LeagueName": "Belgium",
+        "ShortName": "Belgium",
+        "EnglishName": "Belgium",
+        "CountryName": "Belgium",
+        "CountryID": "38"
+    },
+    "39": {
+        "LeagueID": "45",
+        "LeagueName": "Malaysia",
+        "ShortName": "Malaysia",
+        "EnglishName": "Malaysia",
+        "CountryName": "Malaysia",
+        "CountryID": "39"
+    },
+    "40": {
+        "LeagueID": "46",
+        "LeagueName": "Schweiz",
+        "ShortName": "Schweiz",
+        "EnglishName": "Switzerland",
+        "CountryName": "Schweiz",
+        "CountryID": "40"
+    },
+    "41": {
+        "LeagueID": "47",
+        "LeagueName": "Singapore",
+        "ShortName": "Singapore",
+        "EnglishName": "Singapore",
+        "CountryName": "Singapore",
+        "CountryID": "41"
+    },
+    "45": {
+        "LeagueID": "50",
+        "LeagueName": "Hellas",
+        "ShortName": "Hellas",
+        "EnglishName": "Greece",
+        "CountryName": "Hellas",
+        "CountryID": "45"
+    },
+    "44": {
+        "LeagueID": "51",
+        "LeagueName": "Magyarorsz\u00e1g",
+        "ShortName": "Magyarorsz\u00e1g",
+        "EnglishName": "Hungary",
+        "CountryName": "Magyarorsz\u00e1g",
+        "CountryID": "44"
+    },
+    "46": {
+        "LeagueID": "52",
+        "LeagueName": "\u010cesk\u00e1 republika",
+        "ShortName": "\u010cesk\u00e1 rep.",
+        "EnglishName": "Czech Republic",
+        "CountryName": "\u010cesk\u00e1 republika",
+        "CountryID": "46"
+    },
+    "48": {
+        "LeagueID": "53",
+        "LeagueName": "Latvija",
+        "ShortName": "Latvija",
+        "EnglishName": "Latvia",
+        "CountryName": "Latvija",
+        "CountryID": "48"
+    },
+    "49": {
+        "LeagueID": "54",
+        "LeagueName": "Indonesia",
+        "ShortName": "Indonesia",
+        "EnglishName": "Indonesia",
+        "CountryName": "Indonesia",
+        "CountryID": "49"
+    },
+    "50": {
+        "LeagueID": "55",
+        "LeagueName": "Pilipinas",
+        "ShortName": "Pilipinas",
+        "EnglishName": "Philippines",
+        "CountryName": "Pilipinas",
+        "CountryID": "50"
+    },
+    "47": {
+        "LeagueID": "56",
+        "LeagueName": "Eesti",
+        "ShortName": "Eesti",
+        "EnglishName": "Estonia",
+        "CountryName": "Eesti",
+        "CountryID": "47"
+    },
+    "43": {
+        "LeagueID": "57",
+        "LeagueName": "Srbija",
+        "ShortName": "Srbija",
+        "EnglishName": "Serbia",
+        "CountryName": "Srbija",
+        "CountryID": "43"
+    },
+    "42": {
+        "LeagueID": "58",
+        "LeagueName": "Hrvatska",
+        "ShortName": "Hrvatska",
+        "EnglishName": "Croatia",
+        "CountryName": "Hrvatska",
+        "CountryID": "42"
+    },
+    "53": {
+        "LeagueID": "59",
+        "LeagueName": "Hong Kong",
+        "ShortName": "Hong Kong",
+        "EnglishName": "Hong Kong",
+        "CountryName": "Hong Kong SAR",
+        "CountryID": "53"
+    },
+    "52": {
+        "LeagueID": "60",
+        "LeagueName": "Chinese Taipei",
+        "ShortName": "Chin. Taipei",
+        "EnglishName": "Chinese Taipei",
+        "CountryName": "Chinese Taipei",
+        "CountryID": "52"
+    },
+    "56": {
+        "LeagueID": "61",
+        "LeagueName": "Cymru",
+        "ShortName": "Cymru",
+        "EnglishName": "Wales",
+        "CountryName": "Cymru",
+        "CountryID": "56"
+    },
+    "55": {
+        "LeagueID": "62",
+        "LeagueName": "Bulgaria",
+        "ShortName": "Bulgaria",
+        "EnglishName": "Bulgaria",
+        "CountryName": "Bulgaria",
+        "CountryID": "55"
+    },
+    "51": {
+        "LeagueID": "63",
+        "LeagueName": "Israel",
+        "ShortName": "Israel",
+        "EnglishName": "Israel",
+        "CountryName": "Israel",
+        "CountryID": "51"
+    },
+    "57": {
+        "LeagueID": "64",
+        "LeagueName": "Slovenija",
+        "ShortName": "Slovenija",
+        "EnglishName": "Slovenia",
+        "CountryName": "Slovenija",
+        "CountryID": "57"
+    },
+    "61": {
+        "LeagueID": "66",
+        "LeagueName": "Lietuva",
+        "ShortName": "Lietuva",
+        "EnglishName": "Lithuania",
+        "CountryName": "Lietuva",
+        "CountryID": "61"
+    },
+    "66": {
+        "LeagueID": "67",
+        "LeagueName": "Slovensko",
+        "ShortName": "Slovensko",
+        "EnglishName": "Slovakia",
+        "CountryName": "Slovensko",
+        "CountryID": "66"
+    },
+    "62": {
+        "LeagueID": "68",
+        "LeagueName": "Ukraina",
+        "ShortName": "Ukraina",
+        "EnglishName": "Ukraine",
+        "CountryName": "Ukraina",
+        "CountryID": "62"
+    },
+    "63": {
+        "LeagueID": "69",
+        "LeagueName": "Bosna i Hercegovina",
+        "ShortName": "Bosna i Herc",
+        "EnglishName": "Bosnia and Herzegovina",
+        "CountryName": "Bosna i Hercegovina",
+        "CountryID": "63"
+    },
+    "65": {
+        "LeagueID": "70",
+        "LeagueName": "Vi\u1ec7t Nam",
+        "ShortName": "Vi\u1ec7t Nam",
+        "EnglishName": "Vietnam",
+        "CountryName": "Vi\u1ec7t Nam",
+        "CountryID": "65"
+    },
+    "64": {
+        "LeagueID": "71",
+        "LeagueName": "Pakistan",
+        "ShortName": "Pakistan",
+        "EnglishName": "Pakistan",
+        "CountryName": "Pakistan",
+        "CountryID": "64"
+    },
+    "67": {
+        "LeagueID": "72",
+        "LeagueName": "Paraguay",
+        "ShortName": "Paraguay",
+        "EnglishName": "Paraguay",
+        "CountryName": "Paraguay",
+        "CountryID": "67"
+    },
+    "68": {
+        "LeagueID": "73",
+        "LeagueName": "Ecuador",
+        "ShortName": "Ecuador",
+        "EnglishName": "Ecuador",
+        "CountryName": "Ecuador",
+        "CountryID": "68"
+    },
+    "69": {
+        "LeagueID": "74",
+        "LeagueName": "Bolivia",
+        "ShortName": "Bolivia",
+        "EnglishName": "Bolivia",
+        "CountryName": "Bolivia",
+        "CountryID": "69"
+    },
+    "70": {
+        "LeagueID": "75",
+        "LeagueName": "Nigeria",
+        "ShortName": "Nigeria",
+        "EnglishName": "Nigeria",
+        "CountryName": "Nigeria",
+        "CountryID": "70"
+    },
+    "71": {
+        "LeagueID": "76",
+        "LeagueName": "F\u00f8royar",
+        "ShortName": "F\u00f8royar",
+        "EnglishName": "Faroe Islands",
+        "CountryName": "F\u00f8royar",
+        "CountryID": "71"
+    },
+    "72": {
+        "LeagueID": "77",
+        "LeagueName": "Al Maghrib",
+        "ShortName": "Al Maghrib",
+        "EnglishName": "Morocco",
+        "CountryName": "Al Maghrib",
+        "CountryID": "72"
+    },
+    "75": {
+        "LeagueID": "79",
+        "LeagueName": "Saudi Arabia",
+        "ShortName": "Saudi Arabia",
+        "EnglishName": "Saudi Arabia",
+        "CountryName": "Saudi Arabia",
+        "CountryID": "75"
+    },
+    "76": {
+        "LeagueID": "80",
+        "LeagueName": "Tounes",
+        "ShortName": "Tounes",
+        "EnglishName": "Tunisia",
+        "CountryName": "Tounes",
+        "CountryID": "76"
+    },
+    "77": {
+        "LeagueID": "81",
+        "LeagueName": "Costa Rica",
+        "ShortName": "Costa Rica",
+        "EnglishName": "Costa Rica",
+        "CountryName": "Costa Rica",
+        "CountryID": "77"
+    },
+    "78": {
+        "LeagueID": "83",
+        "LeagueName": "United Arab Emirates",
+        "ShortName": "U.A.E.",
+        "EnglishName": "United Arab Emirates",
+        "CountryName": "United Arab Emirates",
+        "CountryID": "78"
+    },
+    "79": {
+        "LeagueID": "84",
+        "LeagueName": "L\u00ebtzebuerg",
+        "ShortName": "L\u00ebtzebuerg",
+        "EnglishName": "Luxembourg",
+        "CountryName": "L\u00ebtzebuerg",
+        "CountryID": "79"
+    },
+    "80": {
+        "LeagueID": "85",
+        "LeagueName": "Iran",
+        "ShortName": "Iran",
+        "EnglishName": "Iran",
+        "CountryName": "Iran",
+        "CountryID": "80"
+    },
+    "83": {
+        "LeagueID": "88",
+        "LeagueName": "Rep\u00fablica Dominicana",
+        "ShortName": "Rep. Dom.",
+        "EnglishName": "Dominican Republic",
+        "CountryName": "Rep\u00fablica Dominicana",
+        "CountryID": "83"
+    },
+    "82": {
+        "LeagueID": "89",
+        "LeagueName": "Cyprus",
+        "ShortName": "Cyprus",
+        "EnglishName": "Cyprus",
+        "CountryName": "Cyprus",
+        "CountryID": "82"
+    },
+    "87": {
+        "LeagueID": "91",
+        "LeagueName": "Belarus",
+        "ShortName": "Belarus",
+        "EnglishName": "Belarus",
+        "CountryName": "Belarus",
+        "CountryID": "87"
+    },
+    "88": {
+        "LeagueID": "93",
+        "LeagueName": "Northern Ireland",
+        "ShortName": "N. Ireland",
+        "EnglishName": "Northern Ireland",
+        "CountryName": "Northern Ireland",
+        "CountryID": "88"
+    },
+    "89": {
+        "LeagueID": "94",
+        "LeagueName": "Jamaica",
+        "ShortName": "Jamaica",
+        "EnglishName": "Jamaica",
+        "CountryName": "Jamaica",
+        "CountryID": "89"
+    },
+    "90": {
+        "LeagueID": "95",
+        "LeagueName": "Kenya",
+        "ShortName": "Kenya",
+        "EnglishName": "Kenya",
+        "CountryName": "Kenya",
+        "CountryID": "90"
+    },
+    "91": {
+        "LeagueID": "96",
+        "LeagueName": "Panam\u00e1",
+        "ShortName": "Panam\u00e1",
+        "EnglishName": "Panama",
+        "CountryName": "Panam\u00e1",
+        "CountryID": "91"
+    },
+    "92": {
+        "LeagueID": "97",
+        "LeagueName": "Severna Makedonija",
+        "ShortName": "S Makedonija",
+        "EnglishName": "North Macedonia",
+        "CountryName": "Severna Makedonija",
+        "CountryID": "92"
+    },
+    "94": {
+        "LeagueID": "98",
+        "LeagueName": "Shqip\u00ebria",
+        "ShortName": "Shqip\u00ebria",
+        "EnglishName": "Albania",
+        "CountryName": "Shqip\u00ebria",
+        "CountryID": "94"
+    },
+    "95": {
+        "LeagueID": "99",
+        "LeagueName": "Honduras",
+        "ShortName": "Honduras",
+        "EnglishName": "Honduras",
+        "CountryName": "Honduras",
+        "CountryID": "95"
+    },
+    "96": {
+        "LeagueID": "100",
+        "LeagueName": "El Salvador",
+        "ShortName": "El Salvador",
+        "EnglishName": "El Salvador",
+        "CountryName": "El Salvador",
+        "CountryID": "96"
+    },
+    "97": {
+        "LeagueID": "101",
+        "LeagueName": "Malta",
+        "ShortName": "Malta",
+        "EnglishName": "Malta",
+        "CountryName": "Malta",
+        "CountryID": "97"
+    },
+    "98": {
+        "LeagueID": "102",
+        "LeagueName": "Kyrgyz Republic",
+        "ShortName": "Kyrgyz Rep",
+        "EnglishName": "Kyrgyz Republic",
+        "CountryName": "Kyrgyz Republic",
+        "CountryID": "98"
+    },
+    "99": {
+        "LeagueID": "103",
+        "LeagueName": "Moldova",
+        "ShortName": "Moldova",
+        "EnglishName": "Moldova",
+        "CountryName": "Moldova",
+        "CountryID": "99"
+    },
+    "100": {
+        "LeagueID": "104",
+        "LeagueName": "Sakartvelo",
+        "ShortName": "Sakartvelo",
+        "EnglishName": "Georgia",
+        "CountryName": "Sakartvelo",
+        "CountryID": "100"
+    },
+    "101": {
+        "LeagueID": "105",
+        "LeagueName": "Andorra",
+        "ShortName": "Andorra",
+        "EnglishName": "Andorra",
+        "CountryName": "Andorra",
+        "CountryID": "101"
+    },
+    "103": {
+        "LeagueID": "106",
+        "LeagueName": "Al Urdun",
+        "ShortName": "Al Urdun",
+        "EnglishName": "Jordan",
+        "CountryName": "Al Urdun",
+        "CountryID": "103"
+    },
+    "102": {
+        "LeagueID": "107",
+        "LeagueName": "Guatemala",
+        "ShortName": "Guatemala",
+        "EnglishName": "Guatemala",
+        "CountryName": "Guatemala",
+        "CountryID": "102"
+    },
+    "105": {
+        "LeagueID": "110",
+        "LeagueName": "Trinidad & Tobago",
+        "ShortName": "Trinidad\/T.",
+        "EnglishName": "Trinidad & Tobago",
+        "CountryName": "Trinidad & Tobago",
+        "CountryID": "105"
+    },
+    "121": {
+        "LeagueID": "111",
+        "LeagueName": "Nicaragua",
+        "ShortName": "Nicaragua",
+        "EnglishName": "Nicaragua",
+        "CountryName": "Nicaragua",
+        "CountryID": "121"
+    },
+    "122": {
+        "LeagueID": "112",
+        "LeagueName": "Kazakhstan",
+        "ShortName": "Kazakhstan",
+        "EnglishName": "Kazakhstan",
+        "CountryName": "Kazakhstan",
+        "CountryID": "122"
+    },
+    "123": {
+        "LeagueID": "113",
+        "LeagueName": "Suriname",
+        "ShortName": "Suriname",
+        "EnglishName": "Suriname",
+        "CountryName": "Suriname",
+        "CountryID": "123"
+    },
+    "125": {
+        "LeagueID": "117",
+        "LeagueName": "Liechtenstein",
+        "ShortName": "Liechtenst.",
+        "EnglishName": "Liechtenstein",
+        "CountryName": "Liechtenstein",
+        "CountryID": "125"
+    },
+    "126": {
+        "LeagueID": "118",
+        "LeagueName": "Alg\u00e9rie",
+        "ShortName": "Alg\u00e9rie",
+        "EnglishName": "Algeria",
+        "CountryName": "Alg\u00e9rie",
+        "CountryID": "126"
+    },
+    "127": {
+        "LeagueID": "119",
+        "LeagueName": "Mongol Uls",
+        "ShortName": "Mongol Uls",
+        "EnglishName": "Mongolia",
+        "CountryName": "Mongol Uls",
+        "CountryID": "127"
+    },
+    "128": {
+        "LeagueID": "120",
+        "LeagueName": "Lubnan",
+        "ShortName": "Lubnan",
+        "EnglishName": "Lebanon",
+        "CountryName": "Lebanon",
+        "CountryID": "128"
+    },
+    "86": {
+        "LeagueID": "121",
+        "LeagueName": "S\u00e9n\u00e9gal",
+        "ShortName": "S\u00e9n\u00e9gal",
+        "EnglishName": "Senegal",
+        "CountryName": "S\u00e9n\u00e9gal",
+        "CountryID": "86"
+    },
+    "104": {
+        "LeagueID": "122",
+        "LeagueName": "Hayastan",
+        "ShortName": "Hayastan",
+        "EnglishName": "Armenia",
+        "CountryName": "Armenia",
+        "CountryID": "104"
+    },
+    "129": {
+        "LeagueID": "123",
+        "LeagueName": "Bahrain",
+        "ShortName": "Bahrain",
+        "EnglishName": "Bahrain",
+        "CountryName": "Bahrain",
+        "CountryID": "129"
+    },
+    "130": {
+        "LeagueID": "124",
+        "LeagueName": "Barbados",
+        "ShortName": "Barbados",
+        "EnglishName": "Barbados",
+        "CountryName": "Barbados",
+        "CountryID": "130"
+    },
+    "131": {
+        "LeagueID": "125",
+        "LeagueName": "Cabo Verde",
+        "ShortName": "Cabo Verde",
+        "EnglishName": "Cape Verde",
+        "CountryName": "Cabo Verde",
+        "CountryID": "131"
+    },
+    "132": {
+        "LeagueID": "126",
+        "LeagueName": "C\u00f4te d\u2019Ivoire",
+        "ShortName": "C. d\u2019Ivoire",
+        "EnglishName": "C\u00f4te d\u2019Ivoire",
+        "CountryName": "C\u00f4te d\u2019Ivoire",
+        "CountryID": "132"
+    },
+    "134": {
+        "LeagueID": "127",
+        "LeagueName": "Al Kuwayt",
+        "ShortName": "Al Kuwayt",
+        "EnglishName": "Kuwait",
+        "CountryName": "Al Kuwayt",
+        "CountryID": "134"
+    },
+    "135": {
+        "LeagueID": "128",
+        "LeagueName": "Al Iraq",
+        "ShortName": "Al Iraq",
+        "EnglishName": "Iraq",
+        "CountryName": "Al Iraq",
+        "CountryID": "135"
+    },
+    "133": {
+        "LeagueID": "129",
+        "LeagueName": "Az\u0259rbaycan",
+        "ShortName": "Az\u0259rbaycan",
+        "EnglishName": "Azerbaijan",
+        "CountryName": "Az\u0259rbaycan",
+        "CountryID": "133"
+    },
+    "137": {
+        "LeagueID": "130",
+        "LeagueName": "Angola",
+        "ShortName": "Angola",
+        "EnglishName": "Angola",
+        "CountryName": "Angola",
+        "CountryID": "137"
+    },
+    "136": {
+        "LeagueID": "131",
+        "LeagueName": "Crna Gora",
+        "ShortName": "Crna Gora",
+        "EnglishName": "Montenegro",
+        "CountryName": "Crna Gora",
+        "CountryID": "136"
+    },
+    "138": {
+        "LeagueID": "132",
+        "LeagueName": "Bangladesh",
+        "ShortName": "Bangladesh",
+        "EnglishName": "Bangladesh",
+        "CountryName": "Bangladesh",
+        "CountryID": "138"
+    },
+    "139": {
+        "LeagueID": "133",
+        "LeagueName": "Al Yaman",
+        "ShortName": "Al Yaman",
+        "EnglishName": "Yemen",
+        "CountryName": "Al Yaman",
+        "CountryID": "139"
+    },
+    "140": {
+        "LeagueID": "134",
+        "LeagueName": "Oman",
+        "ShortName": "Oman",
+        "EnglishName": "Oman",
+        "CountryName": "Oman",
+        "CountryID": "140"
+    },
+    "142": {
+        "LeagueID": "135",
+        "LeagueName": "Mo\u00e7ambique",
+        "ShortName": "Mo\u00e7ambique",
+        "EnglishName": "Mozambique",
+        "CountryName": "Mo\u00e7ambique",
+        "CountryID": "142"
+    },
+    "143": {
+        "LeagueID": "136",
+        "LeagueName": "Brunei",
+        "ShortName": "Brunei",
+        "EnglishName": "Brunei",
+        "CountryName": "Brunei",
+        "CountryID": "143"
+    },
+    "144": {
+        "LeagueID": "137",
+        "LeagueName": "Ghana",
+        "ShortName": "Ghana",
+        "EnglishName": "Ghana",
+        "CountryName": "Ghana",
+        "CountryID": "144"
+    },
+    "145": {
+        "LeagueID": "138",
+        "LeagueName": "Kampuchea",
+        "ShortName": "Kampuchea",
+        "EnglishName": "Cambodia",
+        "CountryName": "Kampuchea",
+        "CountryID": "145"
+    },
+    "147": {
+        "LeagueID": "139",
+        "LeagueName": "B\u00e9nin",
+        "ShortName": "B\u00e9nin",
+        "EnglishName": "Benin",
+        "CountryName": "Benin",
+        "CountryID": "147"
+    },
+    "148": {
+        "LeagueID": "140",
+        "LeagueName": "Suriyah",
+        "ShortName": "Suriyah",
+        "EnglishName": "Syria",
+        "CountryName": "Suriyah",
+        "CountryID": "148"
+    },
+    "149": {
+        "LeagueID": "141",
+        "LeagueName": "Dawlat Qatar",
+        "ShortName": "Qatar",
+        "EnglishName": "Qatar",
+        "CountryName": "Qatar",
+        "CountryID": "149"
+    },
+    "150": {
+        "LeagueID": "142",
+        "LeagueName": "Tanzania",
+        "ShortName": "Tanzania",
+        "EnglishName": "Tanzania",
+        "CountryName": "Tanzania",
+        "CountryID": "150"
+    },
+    "153": {
+        "LeagueID": "143",
+        "LeagueName": "Uganda",
+        "ShortName": "Uganda",
+        "EnglishName": "Uganda",
+        "CountryName": "Uganda",
+        "CountryID": "153"
+    },
+    "154": {
+        "LeagueID": "144",
+        "LeagueName": "Dhivehi Raajje",
+        "ShortName": "Maldives",
+        "EnglishName": "Maldives",
+        "CountryName": "Dhivehi Raajje",
+        "CountryID": "154"
+    },
+    "163": {
+        "LeagueID": "145",
+        "LeagueName": "O\u2019zbekiston",
+        "ShortName": "Uzbekistan",
+        "EnglishName": "Uzbekistan",
+        "CountryName": "Uzbekistan",
+        "CountryID": "163"
+    },
+    "165": {
+        "LeagueID": "146",
+        "LeagueName": "Cameroon",
+        "ShortName": "Cameroon",
+        "EnglishName": "Cameroon",
+        "CountryName": "Cameroon",
+        "CountryID": "165"
+    },
+    "93": {
+        "LeagueID": "147",
+        "LeagueName": "Cuba",
+        "ShortName": "Cuba",
+        "EnglishName": "Cuba",
+        "CountryName": "Cuba",
+        "CountryID": "93"
+    },
+    "166": {
+        "LeagueID": "148",
+        "LeagueName": "Palestine",
+        "ShortName": "Palestine",
+        "EnglishName": "Palestine",
+        "CountryName": "Palestine",
+        "CountryID": "166"
+    },
+    "177": {
+        "LeagueID": "149",
+        "LeagueName": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+        "ShortName": "S\u00e3o Tom\u00e9 e P",
+        "EnglishName": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+        "CountryName": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+        "CountryID": "177"
+    },
+    "180": {
+        "LeagueID": "151",
+        "LeagueName": "Comoros",
+        "ShortName": "Comoros",
+        "EnglishName": "Comoros",
+        "CountryName": "Comoros",
+        "CountryID": "180"
+    },
+    "175": {
+        "LeagueID": "152",
+        "LeagueName": "Sri Lanka",
+        "ShortName": "Sri Lanka",
+        "EnglishName": "Sri Lanka",
+        "CountryName": "Sri Lanka",
+        "CountryID": "175"
+    },
+    "178": {
+        "LeagueID": "153",
+        "LeagueName": "Cura\u00e7ao",
+        "ShortName": "Cura\u00e7ao",
+        "EnglishName": "Cura\u00e7ao",
+        "CountryName": "Cura\u00e7ao",
+        "CountryID": "178"
+    },
+    "179": {
+        "LeagueID": "154",
+        "LeagueName": "Guam",
+        "ShortName": "Guam",
+        "EnglishName": "Guam",
+        "CountryName": "Guam",
+        "CountryID": "179"
+    },
+    "181": {
+        "LeagueID": "155",
+        "LeagueName": "RD Congo",
+        "ShortName": "DR Congo",
+        "EnglishName": "Democratic Republic of the Congo",
+        "CountryName": "DR Congo",
+        "CountryID": "181"
+    },
+    "182": {
+        "LeagueID": "156",
+        "LeagueName": "\u012aty\u014d\u1e57\u1e57y\u0101",
+        "ShortName": "Ethiopia",
+        "EnglishName": "Federal Democratic Republic of Ethiopia",
+        "CountryName": "Ethiopia",
+        "CountryID": "182"
+    },
+    "184": {
+        "LeagueID": "157",
+        "LeagueName": "Saint Vincent and the Grenadines",
+        "ShortName": "St Vincent",
+        "EnglishName": "Saint Vincent and the Grenadines",
+        "CountryName": "Saint Vincent and the Grenadines",
+        "CountryID": "184"
+    },
+    "186": {
+        "LeagueID": "158",
+        "LeagueName": "Belize",
+        "ShortName": "Belize",
+        "EnglishName": "Belize",
+        "CountryName": "Belize",
+        "CountryID": "186"
+    },
+    "183": {
+        "LeagueID": "159",
+        "LeagueName": "Madagasikara",
+        "ShortName": "Madagascar",
+        "EnglishName": "Madagascar",
+        "CountryName": "Madagascar",
+        "CountryID": "183"
+    },
+    "185": {
+        "LeagueID": "160",
+        "LeagueName": "Botswana",
+        "ShortName": "Botswana",
+        "EnglishName": "Botswana",
+        "CountryName": "Botswana",
+        "CountryID": "185"
+    },
+    "189": {
+        "LeagueID": "161",
+        "LeagueName": "Myanmar",
+        "ShortName": "Myanmar",
+        "EnglishName": "Myanmar",
+        "CountryName": "Myanmar",
+        "CountryID": "189"
+    },
+    "187": {
+        "LeagueID": "162",
+        "LeagueName": "Zambia",
+        "ShortName": "Zambia",
+        "EnglishName": "Zambia",
+        "CountryName": "Zambia",
+        "CountryID": "187"
+    },
+    "191": {
+        "LeagueID": "163",
+        "LeagueName": "San Marino",
+        "ShortName": "San Marino",
+        "EnglishName": "San Marino",
+        "CountryName": "San Marino",
+        "CountryID": "191"
+    },
+    "188": {
+        "LeagueID": "164",
+        "LeagueName": "Haiti",
+        "ShortName": "Haiti",
+        "EnglishName": "Haiti",
+        "CountryName": "Haiti",
+        "CountryID": "188"
+    },
+    "190": {
+        "LeagueID": "165",
+        "LeagueName": "Puerto Rico",
+        "ShortName": "Puerto Rico",
+        "EnglishName": "Puerto Rico",
+        "CountryName": "Puerto Rico",
+        "CountryID": "190"
+    },
+    "1002": {
+        "LeagueID": "1002",
+        "LeagueName": "Hattrick Anniversary League",
+        "ShortName": "Hattrick Anniversary League",
+        "EnglishName": "Hattrick Anniversary League",
+        "CountryName": "Hattrick Anniversary League",
+        "CountryID": "1002"
+    }
+}

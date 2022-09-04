@@ -59,10 +59,11 @@ def main():
             ht_oauth, ht_token = connect_hattrick()
             df_members_achievs = download_data(oauth=ht_oauth, token=ht_token)
             #to load index as well
-            df_members_achievs = pd.read_excel(f'{script_directory}/fed_achievments_current.xlsx')
+            df_members_achievs = pd.read_excel(f'{script_directory}/Data/fed_achievments_current.xlsx')
+            df_members_achievs.signup_date.fillna('', inplace=True)
 
 
-            data = df_members_achievs.values.tolist() + df_members_achievs.index.values.tolist()
+            data = df_members_achievs.values.tolist()
             data.insert(0, list(df_members_achievs.columns.values))
             body = {
                 'values': data

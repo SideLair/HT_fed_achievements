@@ -1,0 +1,476 @@
+{
+    "ach_01": {
+        "name": "Climbing the ladder",
+        "anotation": "Team was ranked amongst the top 50.",
+        "achiev_type": "main",
+        "max_points": 100.0
+    },
+    "ach_02": {
+        "name": "I want you",
+        "anotation": "Bought .",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_03": {
+        "name": "Get out of here",
+        "anotation": "Sold that was bought previously.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_04": {
+        "name": "Stop the press",
+        "anotation": "Wrote a press announcement.",
+        "achiev_type": "supporter",
+        "max_points": 10.0
+    },
+    "ach_05": {
+        "name": "The world needs to know",
+        "anotation": "Wrote a .",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_06": {
+        "name": "We're so good",
+        "anotation": "Team reached an of magnificent.",
+        "achiev_type": "main",
+        "max_points": 63.0
+    },
+    "ach_07": {
+        "name": "Friends from abroad",
+        "anotation": "Played international friendly .",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_08": {
+        "name": "Practice makes perfect",
+        "anotation": "Player's skill increased.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_09": {
+        "name": "Play the Lottery",
+        "anotation": "Scouted a new .",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_10": {
+        "name": "Let's do this again ",
+        "anotation": "Sold a rebought youth .",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_11": {
+        "name": "I want you back",
+        "anotation": "Rebought a former youth .",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_12": {
+        "name": "",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_13": {
+        "name": "",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_14": {
+        "name": "National hero\n(deleted)",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_15": {
+        "name": "Principal of the nation\n(deleted)",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_16": {
+        "name": "Join my revolution",
+        "anotation": ", gained at least 1 000 members.",
+        "achiev_type": "supporter",
+        "max_points": 100.0
+    },
+    "ach_17": {
+        "name": "Nasty Squad",
+        "anotation": "The average player personality in your squad is close to nasty.",
+        "achiev_type": "special",
+        "max_points": 15.0
+    },
+    "ach_18": {
+        "name": "Honest Squad",
+        "anotation": "The average player personality in your squad is close to righteous.",
+        "achiev_type": "special",
+        "max_points": 15.0
+    },
+    "ach_19": {
+        "name": "Nice Squad",
+        "anotation": "The average player personality in your squad is close to popular.",
+        "achiev_type": "special",
+        "max_points": 15.0
+    },
+    "ach_20": {
+        "name": "Dishonest Squad",
+        "anotation": "The average player personality in your squad is close to infamous.",
+        "achiev_type": "special",
+        "max_points": 15.0
+    },
+    "ach_21": {
+        "name": "Great Cup Season\n(replaced by 37)",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_22": {
+        "name": "Star collector",
+        "anotation": "Team reached at least 90 stars in a .",
+        "achiev_type": "main",
+        "max_points": 100.0
+    },
+    "ach_23": {
+        "name": "All that skill",
+        "anotation": "Total TSI of the squad exceeded 2 000 000.",
+        "achiev_type": "main",
+        "max_points": 80.0
+    },
+    "ach_24": {
+        "name": "Non-spender\n(deleted)",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_25": {
+        "name": "Home-grown lineup",
+        "anotation": "All players in your starting originate from your own club and the average age is over 18. Please note that there must be 11 players in your starting lineup to complete this achievement.",
+        "achiev_type": "main",
+        "max_points": 25.0
+    },
+    "ach_26": {
+        "name": "Veteran lineup",
+        "anotation": "The average age of your starting is over 35. Please note: only full years, not days, are taken into account for this achievement, and there must be 11 players in your starting lineup to complete this achievement.",
+        "achiev_type": "main",
+        "max_points": 35.0
+    },
+    "ach_27": {
+        "name": "Youthful lineup",
+        "anotation": "The average age of your starting is below 18 (and at least one player started his career at another club). Please note: only full years, not days, are taken into account for this achievement, and there must be 11 players in your starting lineup to complete this achievement.",
+        "achiev_type": "main",
+        "max_points": 35.0
+    },
+    "ach_28": {
+        "name": "Academy lineup",
+        "anotation": "All players in your starting originate from your own club and the average age is below 18. Please note that there must be 11 players in your starting lineup to complete this achievement.",
+        "achiev_type": "main",
+        "max_points": 35.0
+    },
+    "ach_29": {
+        "name": "You're in the Book!\n(replaced by nr .47)",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_30": {
+        "name": "Vox Populi\n(replaced by nr. 46)",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_31": {
+        "name": "Cash is king",
+        "anotation": "The money in your account exceeded 400 000 000 Kč on the weekly update",
+        "achiev_type": "main",
+        "max_points": 35.0
+    },
+    "ach_32": {
+        "name": "We're so loved ",
+        "anotation": "Fan club size exceeded 3 000 members.",
+        "achiev_type": "main",
+        "max_points": 50.0
+    },
+    "ach_33": {
+        "name": "Eternal life",
+        "anotation": "Promoted to the hall of fame.",
+        "achiev_type": "supporter",
+        "max_points": 15.0
+    },
+    "ach_34": {
+        "name": "Investment return",
+        "anotation": "Sold a .",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_35": {
+        "name": "Met Bob at the bank\n(deleted)",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_36": {
+        "name": "Milestone",
+        "anotation": "Played Hattrick for 10 years.",
+        "achiev_type": "main",
+        "max_points": 0.0
+    },
+    "ach_37": {
+        "name": "Great Cup Season",
+        "anotation": "Get as close as you can to winning the National Cup. First level is reached if you win when there are 7 rounds left, then you gain one level for each round closer you get. Last level means you won the Cup.",
+        "achiev_type": "main",
+        "max_points": 70.0
+    },
+    "ach_38": {
+        "name": "Great Cup Streak",
+        "anotation": "Achieve a long streak of wins in the National Cup. Win streaks carry over from one season to the next.",
+        "achiev_type": "main",
+        "max_points": 70.0
+    },
+    "ach_39": {
+        "name": "Wipe that smile off your face",
+        "anotation": "End the undefeated streak of another team by winning one against it. The longer the streak you end, the stronger your achievement.",
+        "achiev_type": "main",
+        "max_points": 20.0
+    },
+    "ach_40": {
+        "name": "Winning is What Counts",
+        "anotation": "Just keep winning. The achievement counts your team's lifetime wins, official matches only.",
+        "achiev_type": "main",
+        "max_points": 30.0
+    },
+    "ach_41": {
+        "name": "Scoring Out of Bounds",
+        "anotation": "All time goals by your team in official matches",
+        "achiev_type": "main",
+        "max_points": 25.0
+    },
+    "ach_42": {
+        "name": "Special Ops",
+        "anotation": "Win any having scored only Special Event goals.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_43": {
+        "name": "Comeback Kings",
+        "anotation": "Given to teams that achieved were behind by several goals, and then swung the around. The more dramatic the comeback, the better.",
+        "achiev_type": "main",
+        "max_points": 12.0
+    },
+    "ach_44": {
+        "name": "We're Bigger Than Hattrick",
+        "anotation": "When one Hattrick in a match is not enough. Your team needs to score two in the same to get this honour.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_45": {
+        "name": "That's Just Typical",
+        "anotation": "Your team has a with lots of injuries. This achievement is the consolation prize.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_46": {
+        "name": "Vox Populi",
+        "anotation": "Submit an to Hattrick Press, have it accepted and read by the community. The more likes an article gets, the higher your achievement level.",
+        "achiev_type": "main",
+        "max_points": 16.0
+    },
+    "ach_47": {
+        "name": "You're in the Book!",
+        "anotation": "Be an active and constructive member of the forum, so other users will bookmark you to see what you have to say",
+        "achiev_type": "main",
+        "max_points": 16.0
+    },
+    "ach_48": {
+        "name": "Official Business",
+        "anotation": "A tally of all official matches played by your team",
+        "achiev_type": "main",
+        "max_points": 16.0
+    },
+    "ach_49": {
+        "name": "Heads or Tails?",
+        "anotation": "",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_50": {
+        "name": "I only have eyes for you",
+        "anotation": "",
+        "achiev_type": "main",
+        "max_points": 30.0
+    },
+    "ach_51": {
+        "name": "The Football Laboratory",
+        "anotation": "Win at least one league match with each one of the 10 default formations. A single formation should be used for the whole match.",
+        "achiev_type": "special",
+        "max_points": 25.0
+    },
+    "ach_52": {
+        "name": "Movember Has Come",
+        "anotation": "Have a perfectly groomed team lined up for a . Yes, we mean moustaches.",
+        "achiev_type": "special",
+        "max_points": 10.0
+    },
+    "ach_53": {
+        "name": "Coneheads United",
+        "anotation": "",
+        "achiev_type": "special",
+        "max_points": 10.0
+    },
+    "ach_54": {
+        "name": "Past My Bedtime",
+        "anotation": "Log in to Hattrick at midnight, local time.",
+        "achiev_type": "main",
+        "max_points": 5.0
+    },
+    "ach_55": {
+        "name": "Everyone Is Welcome Here",
+        "anotation": "Collect a home flag for every country in Hattrick",
+        "achiev_type": "supporter",
+        "max_points": 50.0
+    },
+    "ach_56": {
+        "name": "Grand Tour",
+        "anotation": "Collect an away flag from every country in Hattrick",
+        "achiev_type": "supporter",
+        "max_points": 50.0
+    },
+    "ach_57": {
+        "name": "Continent Hopper",
+        "anotation": "Collect one home and one away flag from each of six continents: North America, South America, Europe, Africa, Asia and Oceania",
+        "achiev_type": "supporter",
+        "max_points": 60.0
+    },
+    "ach_58": {
+        "name": "Never Alone",
+        "anotation": "Consistency is key. Play at least one friendly per week, for several weeks in a row. Weekend friendlies also count if for whatever reason you happen to miss playing a midweek friendly. The longer you keep it up the higher you will rank.",
+        "achiev_type": "main",
+        "max_points": 20.0
+    },
+    "ach_59": {
+        "name": "Shut-Out Season",
+        "anotation": "Become the champion in your while being undefeated in all league matches that season",
+        "achiev_type": "main",
+        "max_points": 15.0
+    },
+    "ach_60": {
+        "name": "Safety First",
+        "anotation": "Finish a with less than 10 goals conceded in league matches.",
+        "achiev_type": "main",
+        "max_points": 15.0
+    },
+    "ach_61": {
+        "name": "No more than needed",
+        "anotation": "",
+        "achiev_type": "main",
+        "max_points": 15.0
+    },
+    "ach_62": {
+        "name": "Golden Bonanza",
+        "anotation": "Win the series while also having the Top Scorer on your team",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_63": {
+        "name": "Goal Machine",
+        "anotation": "Simply have your team score many goals in league matches in the . The more goals, the higher your rank.",
+        "achiev_type": "main",
+        "max_points": 18.0
+    },
+    "ach_64": {
+        "name": "Entry Denied",
+        "anotation": "Awarded when you have had a certain number of clean sheets in official matches. Higher ranks are given as you achieve more clean sheets.",
+        "achiev_type": "main",
+        "max_points": 20.0
+    },
+    "ach_65": {
+        "name": "It's Me, Again",
+        "anotation": "Awarded when you have the Top Scorer for the season in your team. Higher ranks available when the feat is repeated.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_66": {
+        "name": "",
+        "anotation": "",
+        "achiev_type": "",
+        "max_points": ""
+    },
+    "ach_67": {
+        "name": "Rocket Fuel",
+        "anotation": "Your team was promoted two seasons in a row.",
+        "achiev_type": "main",
+        "max_points": 30.0
+    },
+    "ach_68": {
+        "name": "National Treasure Hunter",
+        "anotation": "The achievement awards you for the best result (round reached) with a U21 or NT team as their National Coach.",
+        "achiev_type": "main",
+        "max_points": 0.0
+    },
+    "ach_69": {
+        "name": "Always There For You",
+        "anotation": "Visit Hattrick every day. Achievement given when you have achieved a log-in streak of several days. The longer your streak, the higher your rank.",
+        "achiev_type": "main",
+        "max_points": 30.0
+    },
+    "ach_70": {
+        "name": "Hometown Heroes",
+        "anotation": "Win your series using only homegrown players in your starting lineup the entire season.",
+        "achiev_type": "special",
+        "max_points": 30.0
+    },
+    "ach_71": {
+        "name": "Local Delicacies",
+        "anotation": "Players raised in your team have played at least 3 matches for a national team (U21 or senior). Having more players with caps leads to higher ranks.",
+        "achiev_type": "main",
+        "max_points": 20.0
+    },
+    "ach_72": {
+        "name": "This team is on fire!",
+        "anotation": "",
+        "achiev_type": "special",
+        "max_points": 10.0
+    },
+    "ach_73": {
+        "name": "So close!",
+        "anotation": "Losing a was harsh, but at least you got this achievement.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_74": {
+        "name": "Penalty Pickings",
+        "anotation": "A tally of penalties scored in official matches. Penalty shoot-outs are not included.",
+        "achiev_type": "main",
+        "max_points": 10.0
+    },
+    "ach_75": {
+        "name": "Kissing the Badge",
+        "anotation": "Created a team logo for your team using the Club Logo Editor.",
+        "achiev_type": "main",
+        "max_points": 5.0
+    },
+    "ach_76": {
+        "name": "Field of Dreams",
+        "anotation": "Used the Arena Designer to create or update the arena of your team.",
+        "achiev_type": "supporter",
+        "max_points": 5.0
+    },
+    "ach_77": {
+        "name": "I’m an Insider",
+        "anotation": "Joined a Local Circle.",
+        "achiev_type": "main",
+        "max_points": 5.0
+    },
+    "ach_78": {
+        "name": "Keeping the Sponsors Happy",
+        "anotation": "Completed a seasonal sponsor goal.",
+        "achiev_type": "main",
+        "max_points": 15.0
+    },
+    "ach_79": {
+        "name": "Easter Egg Hunt",
+        "anotation": "Found Easter eggs hidden around the site during the Easter hunt.",
+        "achiev_type": "main",
+        "max_points": 0.0
+    }
+}
